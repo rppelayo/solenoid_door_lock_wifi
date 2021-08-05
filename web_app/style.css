@@ -1,0 +1,31 @@
+
+.main-body{
+  background-size: cover;
+  font-size:30px;
+}
+
+.header{
+  background-color: white;
+  text-align: center;
+  height: 5%;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+#button-div{
+  padding:100px 0px 0px 0px;
+  margin-left: 25%;
+  height: 80%;
+  font-size: 18px;
+}
+
+#open-lock{
+  height: 15%;
+  width: 50%;
+  margin-left: 25%;
+  font-size: 20px;
+ 
+}
+
+
+
