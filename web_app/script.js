@@ -3,7 +3,7 @@ $(function(){
     var msg;
     var init = "ABC";
   
-   var client = mqtt.connect('wss://iotfishfeeder:mhh3T7yPApq2XrGE@iotfishfeeder.cloud.shiftr.io', { // insert your MQTT Instance here
+   var client = mqtt.connect('wss://12345678abcdefghijk@mqtt.broker.io', { // insert your MQTT Instance here
      clientId: 'browser-client'
    });
    

@@ -19,6 +19,12 @@
   font-size: 18px;
 }
 
+.TMM-logo img{
+    width: 100%;
+    margin-left: 60%;
+    margin-top: 20%
+}
+
 #open-lock{
   height: 15%;
   width: 50%;
